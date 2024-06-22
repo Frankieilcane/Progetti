@@ -1,0 +1,71 @@
+#contenitore{
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+
+#box{
+    background-color: rgba(0, 0, 0, 0.256);
+    height: 600px;
+    width: 900px;
+    margin: auto;
+    border-radius: 4px;
+    margin-top: 30px;
+}
+
+#formattazione{
+    text-align: center;
+    padding-top: 5%;
+}
+
+
+#logo{
+    width:15%;
+    margin: auto;   
+}
+
+#titolo{
+    color: rgb(0, 206, 0);
+    text-align: center;
+}
+
+#rigabottoni{
+    background-color:rgb(0, 206, 0) ;
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#corpocentrale{
+    width: 800px;
+    margin: auto;
+    margin-top: 2%;
+    color: white;
+}
+
+
+.grassetto{
+    font-weight: bolder;
+}
+
+
+#barracarica1{
+    height: 20px;
+    width: 200px;
+    background-color: orange;
+    border-radius: 4px;
+}
+
+#barracarica2{
+    height: 20px;
+    width: 550px;
+    background-color: green;
+    border-radius: 4px;
+}
+
+#barracarica3{
+    height: 20px;
+    width: 80px;
+    background-color: red;
+    border-radius: 4px;
+}
